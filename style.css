@@ -1,8 +1,24 @@
+body {
+    background-color: lightcyan;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    width: 600px;
+    background-color: rgb(176, 249, 229);
+    padding : 8px;
+    margin: auto;
+    border: 3px dotted blue;
+    border-radius: 50px;
+}
+
 .title {
     color:rgb(106, 106, 222);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-size: 50px;
+    text-align: center;
 }
 
 #recipe-list{
