@@ -2,6 +2,7 @@
     list-style-type: lower-roman;
     color:purple;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 .head,.head2{
@@ -21,4 +22,9 @@
 .menuname{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+}
+
+.img {
+    margin-left: auto;
+    margin-right: auto;
 }
